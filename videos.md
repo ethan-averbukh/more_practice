@@ -51,7 +51,7 @@
 - [Evolution of a Developer](https://www.youtube.com/watch?v=rP1q6oIVco4)
 - [Writing Software by David Heinemeier Hansson (creator of RoR)](https://www.youtube.com/watch?v=9LfmrkyP81M)
 
-## IMPOSER SYNDROME
+## IMPOSTOR SYNDROME
 - [The Impostor Syndrome](https://www.youtube.com/watch?v=eqhUHyVpAwE)
 - [The Impostor Syndrome (blog)](https://davidwalsh.name/impostor-syndrome)
 - [What Can You Do With Imposter Syndrome](https://www.youtube.com/watch?v=Bv8MNmEn0MM)

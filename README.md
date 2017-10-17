@@ -2,7 +2,9 @@
 
 # Recommended Content
 
+- [Books](books.md)
 - [Videos](videos.md)
+- [Online Education](online-education.md)
 
 ## [License](LICENSE)
 
