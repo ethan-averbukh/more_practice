@@ -60,6 +60,7 @@
 - [The Story of Austin's Butterfly](https://www.youtube.com/watch?v=hqh1MRWZjms)
 - [The Power of Belief -- Mindset and Success](https://www.youtube.com/watch?v=pN34FNbOKXc)
 - [The Gap](https://vimeo.com/85040589)
+- [Will Comfort Ruin Your Life?](https://www.youtube.com/watch?v=LBvHI1awWaI)
 
 ## Lists of Videos
 - https://github.com/bolshchikov/js-must-watch
