@@ -5,6 +5,7 @@
 - [Books](books.md)
 - [Videos](videos.md)
 - [Online Education](online-education.md)
+- [Tutorials](tutorials.md)
 
 ## [License](LICENSE)
 
