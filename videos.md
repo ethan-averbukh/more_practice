@@ -15,13 +15,38 @@
 - [Functional Programming](https://www.youtube.com/watch?v=e-5obm1G_FY)
 - [Time Zone of Your Life](https://www.youtube.com/watch?v=2BdFg5JT9lg)
 - [Javascript Under the Hood](https://www.youtube.com/watch?v=dibzLw4wPms)
-- [So How Does the Browser Render a Web Site](https://www.youtube.com/watch?v=SmE4OwHztCc)
 - [What Everybody Should Know about NPM](https://www.youtube.com/watch?v=zWEU8kNKi3Q)
 - [JavaScript: The Good Parts (Douglas Crockford)](https://www.youtube.com/watch?v=hQVTIJBZook)
 - [The JavaScript Programming Language (Douglas Crockford)](https://www.youtube.com/watch?v=v2ifWcnQs6M)
 - [Javascript: The Better Parts (Douglas Crockford)](https://www.youtube.com/watch?v=bo36MrBfTk4)
 - [Advanced Async and Concurrency Patterns in JavaScript](https://www.youtube.com/watch?v=Qg1SvpIau6U)
 - [Async Programming in ES7](https://www.youtube.com/watch?v=lil4YCCXRYc)
+- [Asynchrony: Under the Hood -](https://www.youtube.com/watch?v=SrNQS8J67zc)
+
+## Node
+- [Ryan Dahl: Original Node.js presentation](https://www.youtube.com/watch?v=ztspvPYybIY)
+- [Introduction to Node.js with Ryan Dahl](https://www.youtube.com/watch?v=jo_B4LTHi3I&t=3037s)
+- [Node Tutorial Series](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
+
+## Javascript Engines
+- [JavaScript Engines - How Do They Even?](https://www.youtube.com/watch?v=p-iiEDtpy6I)
+- [JavaScript Engines: Under the Hood](https://www.youtube.com/watch?v=bx_VmJGdgHc)
+- [Parsing JavaScript - Better Lazy than Eager?](https://www.youtube.com/watch?v=Fg7niTmNNLg&t=1222s)
+
+## Ember
+- [Ember History](https://www.youtube.com/watch?v=TEuY4GqwrUE&index=1&list=PL4eq2DPpyBbna_5fLPqOqensqSZpGf-hT)(Yehuda Katz)
+- [Data Loading Patterns](https://www.youtube.com/watch?v=kPxiiAGMSzE&index=9&list=PL4eq2DPpyBbna_5fLPqOqensqSZpGf-hT)
+- [Mastering Ember from the Perspective of a N00b](https://www.youtube.com/watch?v=BdUL_txyqcw)
+- [An Animated Guide to Ember Internals](https://www.youtube.com/watch?v=A5k2u7AZf6g)
+- [A journey through Ember.js glue](https://www.youtube.com/watch?v=UpUtVGW43hY)(Mike North)
+- [Web, Native iOS and Native Android with one Ember js App](https://www.youtube.com/watch?v=VEuKgsnqv64)
+- [Building Mobile Applications with Ember](https://www.youtube.com/watch?v=Ry639hvWKbM)
+
+## Browsers
+- [How Browsers Work ](https://www.youtube.com/watch?v=0IsQqJ7pwhw)
+- [So how does the browser actually render a website](https://www.youtube.com/watch?v=SmE4OwHztCc&t=1267s)
+- [In the Loop](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
+- [Stop Breaking the Web](https://www.youtube.com/watch?v=BQ6at0addi4)
 
 ## RUBY
 - [Simplicity Matters](https://www.youtube.com/watch?v=rI8tNMsozo0)
@@ -34,6 +59,8 @@
 - [N design patterns you might actually use](https://www.youtube.com/watch?v=Oxd_DBuX8R8)
 - [/Reg(exp){2}lained/: Demystifying Regular Expressions](https://www.youtube.com/watch?v=EkluES9Rvak)
 - [Beneath The Surface: Harnessing the True Power of Regular Expressions in Ruby](https://www.youtube.com/watch?v=JfwS4ibJFDw)
+- [Algorithms to live by and why should we care by](https://www.youtube.com/watch?v=LCH2re51p7g)
+- [Rules](https://www.youtube.com/watch?v=npOGOmkxuio)(Sandi Metz)
 
 ## GIT
 -  [An Introduction to Git and GitHub by CS50](https://www.youtube.com/watch?v=MJUJ4wbFm_A)
@@ -43,6 +70,20 @@
 - [Linus Torvalds on Git](https://www.youtube.com/watch?v=4XpnKHJAok8)
 - [Git Happens](https://www.youtube.com/watch?v=Dv8I_kfrFWw)
 
+## Security
+- [Securing your site like it's 1999](https://www.youtube.com/watch?v=Tpzqu4EGFjc)
+
+## Computer Science
+- [CrashCourse: Computer Science Series](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+- [CS50 YouTube Series](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
+- [MIT OpenCourseWare](https://www.youtube.com/user/MIT/featured)
+- [Hacker Rank YouTube Series](https://www.youtube.com/channel/UCOf7UPMHBjAavgD0Qw5q5ww/videos)
+
+## Accessibility
+- [Unintended Consequences: How to Reduce Exclusionary Practices](https://www.youtube.com/watch?v=t8F12gZJ4AQ)
+- [Empathy-Driven Development](https://www.youtube.com/watch?v=l95VFLj3e2w)
+
+
 ## PROGRAMMING INSPIRATION
 - [The Myth of the Real Javascript Developer (junior to intermediate)](https://www.youtube.com/watch?v=Xt5qpbiqw2g&t=243s)
 - [Javascript Masterclass (intermediate to expert)](https://www.youtube.com/watch?v=v0TFmdO4ZP0)
@@ -50,11 +91,17 @@
 - [Making Badass Developers](https://www.youtube.com/watch?v=FKTxC9pl-WM)
 - [Evolution of a Developer](https://www.youtube.com/watch?v=rP1q6oIVco4)
 - [Writing Software by David Heinemeier Hansson (creator of RoR)](https://www.youtube.com/watch?v=9LfmrkyP81M)
+- [“Am I Senior Yet?” Grow Your Career by Teaching Your Peers](https://www.youtube.com/watch?v=jcTmoOHhG9A)
+- [Being Human](https://www.youtube.com/watch?v=LlO2_GecWo8)
+- [What can programmers learn from pilots?](https://www.youtube.com/watch?v=we4G_X91e5w)
 
 ## IMPOSTOR SYNDROME
 - [The Impostor Syndrome](https://www.youtube.com/watch?v=eqhUHyVpAwE)
 - [The Impostor Syndrome (blog)](https://davidwalsh.name/impostor-syndrome)
 - [What Can You Do With Imposter Syndrome](https://www.youtube.com/watch?v=Bv8MNmEn0MM)
+- [You are Not an Impostor](https://www.youtube.com/watch?v=l_Vqp1dPuPo)
+- [Atlassian Imposter Syndrome](https://www.youtube.com/watch?v=zNBmHXS3A6I)
+- [Curing Imposter Syndrome](https://www.youtube.com/watch?v=bKUlyMaKz8Y)
 
 ## GROWTH MINDSET
 - [The Story of Austin's Butterfly](https://www.youtube.com/watch?v=hqh1MRWZjms)
@@ -66,6 +113,7 @@
 ## Lists of Videos
 - https://github.com/bolshchikov/js-must-watch
 - https://github.com/HugoGiraudel/SJSJ
+- [Programming Talks](https://github.com/hellerve/programming-talks)
 
 ## [License](LICENSE)
 
