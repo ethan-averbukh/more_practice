@@ -18,6 +18,13 @@
   - [Coursera](https://www.coursera.org)
   - [Udacity](https://www.udacity.com/)
 
+## Computer Science
+- [Harvard CS50](https://cs50.harvard.edu/)
+- [Stanford CS101](http://online.stanford.edu/course/computer-science-101-self-paced)
+- [MIT CS 6.0](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/index.htm)
+- [EdX MIT CS6](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)
+- [EdX Harvard CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+
 ## Design
 - Free
   - [Hack Design](https://hackdesign.org/lessons)

@@ -21,7 +21,8 @@
   - http://programming-motherfucker.com/become.html
   - https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md
   - https://github.com/sjarol/ebooks
-
+  - https://github.com/mgp/book-notes
+  
 ## [License](LICENSE)
 
 1.  All content is licensed under a CC­BY­NC­SA 4.0 license.
