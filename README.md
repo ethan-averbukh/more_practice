@@ -6,6 +6,7 @@
 - [Videos](videos.md)
 - [Online Education](online-education.md)
 - [Tutorials](tutorials.md)
+- [Case Studies](case-studies.md)
 
 ## [License](LICENSE)
 
