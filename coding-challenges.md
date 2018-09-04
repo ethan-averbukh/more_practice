@@ -1,15 +1,12 @@
 [![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
 
-# Recommended Content
+# Coding Challenges
 
-- [Books](books.md)
-- [Videos](videos.md)
-- [Online Education](online-education.md)
-- [Tutorials](tutorials.md)
-- [Coding Challenges](coding-challenges.md)
-- [Case Studies](case-studies.md)
-- [Libaries & Frameworks](libraries.md)
-- [APIs](apis.md)
+- www.codewars.com
+- www.codefights.com
+- www.hackerearth.com
+- www.hackerrank.com
+- www.reddit.com/r/dailyprogrammer
 
 ## [License](LICENSE)
 
