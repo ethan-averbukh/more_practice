@@ -8,6 +8,7 @@
 - [Tutorials](tutorials.md)
 - [Case Studies](case-studies.md)
 - [Libaries & Frameworks](libraries.md)
+- [APIs](apis.md)
 
 ## [License](LICENSE)
 
