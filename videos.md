@@ -61,6 +61,7 @@
 - [The Power of Belief -- Mindset and Success](https://www.youtube.com/watch?v=pN34FNbOKXc)
 - [The Gap](https://vimeo.com/85040589)
 - [Will Comfort Ruin Your Life?](https://www.youtube.com/watch?v=LBvHI1awWaI)
+- [Grit: The Power of Passion and Perserverance](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance)
 
 ## Lists of Videos
 - https://github.com/bolshchikov/js-must-watch
