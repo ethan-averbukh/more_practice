@@ -6,6 +6,7 @@
 - [Videos](videos.md)
 - [Online Education](online-education.md)
 - [Tutorials](tutorials.md)
+- [Blogs](blogs.md)
 - [Coding Challenges](coding-challenges.md)
 - [Case Studies](case-studies.md)
 - [Libaries & Frameworks](libraries.md)
