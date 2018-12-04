@@ -10,6 +10,8 @@
   - [Bento](https://bento.io/tracks)
   - [Odin Project](https://www.theodinproject.com/courses)
   - [Khan Academy](https://www.khanacademy.org)
+  - [Computer Science Curriculum](https://github.com/ossu/computer-science)
+  
 - Paid
   - [Front End Master](https://frontendmasters.com/)
   - [Team Treehouse](https://teamtreehouse.com)
