@@ -5,11 +5,15 @@
 ## Javascript
 - [Eloquent Javascript](http://eloquentjavascript.net/Eloquent_JavaScript.pdf)
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+- [Exploring ES6](http://exploringjs.com/es6/index.html)
 
 ## Ruby
 
 - [Learning Ruby the Hard Way](https://learnrubythehardway.org/book/)
 - [Learn to Program](https://pine.fm/LearnToProgram/)
+
+## Git
+- [Git Internals](https://github.com/pluralsight/git-internals-pdf)
 
 ## Lists of Books
 
@@ -22,7 +26,7 @@
   - https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md
   - https://github.com/sjarol/ebooks
   - https://github.com/mgp/book-notes
-  
+
 ## [License](LICENSE)
 
 1.  All content is licensed under a CC­BY­NC­SA 4.0 license.
