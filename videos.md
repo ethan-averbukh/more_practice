@@ -3,6 +3,7 @@
 # GA Recommended Videos
 
 ## JAVASCRIPT
+- [wtfjavascript](https://www.youtube.com/watch?v=et8xNAc2ic8)
 - [Javascript WAT](https://www.destroyallsoftware.com/talks/wat)
 - [Everything you never wanted to know about JavaScript numbers](https://www.youtube.com/watch?v=MqHDDtVYJRI)
 - [Let’s go big (Big numbers in JavaScript)](https://www.youtube.com/watch?v=9SHOfZI_SsM)
@@ -27,6 +28,8 @@
 - [Ryan Dahl: Original Node.js presentation](https://www.youtube.com/watch?v=ztspvPYybIY)
 - [Introduction to Node.js with Ryan Dahl](https://www.youtube.com/watch?v=jo_B4LTHi3I&t=3037s)
 - [Node Tutorial Series](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
+- [A Billion Person Family Tree with MongoDB](https://www.youtube.com/watch?v=ea-yeyKon00)
+- [10 Things I Regret About Node.js](https://www.youtube.com/watch?v=M3BM9TB-8yA) (Ryan Dahl)
 
 ## Javascript Engines
 - [JavaScript Engines - How Do They Even?](https://www.youtube.com/watch?v=p-iiEDtpy6I)
@@ -41,6 +44,13 @@
 - [A journey through Ember.js glue](https://www.youtube.com/watch?v=UpUtVGW43hY)(Mike North)
 - [Web, Native iOS and Native Android with one Ember js App](https://www.youtube.com/watch?v=VEuKgsnqv64)
 - [Building Mobile Applications with Ember](https://www.youtube.com/watch?v=Ry639hvWKbM)
+
+## React
+- [‹Rethinker stop={false}/›](https://www.youtube.com/watch?v=kp-NOggyz54)
+- [React Component Patterns](https://www.youtube.com/watch?v=YaZg8wg39QQ)
+- [Netflix - RxJS + Redux + React = Amazing!](https://www.youtube.com/watch?v=AslncyG8whg)
+- [Thinking in React](https://pusher.com/sessions/meetup/bristol-js/thinking-in-react)
+- https://github.com/tiaanduplessis/awesome-react-talks
 
 ## Browsers
 - [How Browsers Work ](https://www.youtube.com/watch?v=0IsQqJ7pwhw)
@@ -78,11 +88,11 @@
 - [CS50 YouTube Series](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
 - [MIT OpenCourseWare](https://www.youtube.com/user/MIT/featured)
 - [Hacker Rank YouTube Series](https://www.youtube.com/channel/UCOf7UPMHBjAavgD0Qw5q5ww/videos)
+- [Ideology ](https://www.destroyallsoftware.com/talks/ideology)
 
 ## Accessibility
 - [Unintended Consequences: How to Reduce Exclusionary Practices](https://www.youtube.com/watch?v=t8F12gZJ4AQ)
 - [Empathy-Driven Development](https://www.youtube.com/watch?v=l95VFLj3e2w)
-
 
 ## PROGRAMMING INSPIRATION
 - [The Myth of the Real Javascript Developer (junior to intermediate)](https://www.youtube.com/watch?v=Xt5qpbiqw2g&t=243s)
@@ -116,6 +126,20 @@
 - [Programming Talks](https://github.com/hellerve/programming-talks)
 
 ## [License](LICENSE)
+
+JS
+
+
+Mongodb
+
+
+Node
+
+Software
+
+
+
+
 
 1.  All content is licensed under a CC­BY­NC­SA 4.0 license.
 1.  All software code is licensed under GNU GPLv3. For commercial use or
