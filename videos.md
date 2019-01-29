@@ -2,7 +2,7 @@
 
 # GA Recommended Videos
 
-## JAVASCRIPT
+## Javascript
 - [wtfjavascript](https://www.youtube.com/watch?v=et8xNAc2ic8)
 - [Javascript WAT](https://www.destroyallsoftware.com/talks/wat)
 - [Everything you never wanted to know about JavaScript numbers](https://www.youtube.com/watch?v=MqHDDtVYJRI)
@@ -55,12 +55,13 @@
 - https://github.com/tiaanduplessis/awesome-react-talks
 
 ## Browsers
-- [How Browsers Work ](https://www.youtube.com/watch?v=0IsQqJ7pwhw)
+- [How browsers work](https://www.youtube.com/watch?v=0IsQqJ7pwhw)
+- [How browsers work internally](https://vimeo.com/44182484)
 - [So how does the browser actually render a website](https://www.youtube.com/watch?v=SmE4OwHztCc&t=1267s)
 - [In the Loop](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
 - [Stop Breaking the Web](https://www.youtube.com/watch?v=BQ6at0addi4)
 
-## RUBY
+## Ruby
 - [Simplicity Matters](https://www.youtube.com/watch?v=rI8tNMsozo0)
 - [All the Little Things (Sandi Metz)](https://www.youtube.com/watch?v=8bZh5LMaSmE)
 - [The Magic Tricks of Testing (Sandi Metz)](https://www.youtube.com/watch?v=URSWYvyc42M)
@@ -74,7 +75,7 @@
 - [Algorithms to live by and why should we care by](https://www.youtube.com/watch?v=LCH2re51p7g)
 - [Rules](https://www.youtube.com/watch?v=npOGOmkxuio)(Sandi Metz)
 
-## GIT
+## Git
 -  [An Introduction to Git and GitHub by CS50](https://www.youtube.com/watch?v=MJUJ4wbFm_A)
 -  [Advanced Git Tutorial](https://www.youtube.com/watch?v=0SJCYPsef54)
 -  [Git from the Bits Up](https://www.youtube.com/watch?v=MYP56QJpDr4)
@@ -96,7 +97,7 @@
 - [Unintended Consequences: How to Reduce Exclusionary Practices](https://www.youtube.com/watch?v=t8F12gZJ4AQ)
 - [Empathy-Driven Development](https://www.youtube.com/watch?v=l95VFLj3e2w)
 
-## PROGRAMMING INSPIRATION
+## Programming Inspiration
 - [The Myth of the Real Javascript Developer (junior to intermediate)](https://www.youtube.com/watch?v=Xt5qpbiqw2g&t=243s)
 - [Javascript Masterclass (intermediate to expert)](https://www.youtube.com/watch?v=v0TFmdO4ZP0)
 - [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
@@ -107,7 +108,7 @@
 - [Being Human](https://www.youtube.com/watch?v=LlO2_GecWo8)
 - [What can programmers learn from pilots?](https://www.youtube.com/watch?v=we4G_X91e5w)
 
-## IMPOSTOR SYNDROME
+## Imposter Syndrome
 - [The Impostor Syndrome](https://www.youtube.com/watch?v=eqhUHyVpAwE)
 - [The Impostor Syndrome (blog)](https://davidwalsh.name/impostor-syndrome)
 - [What Can You Do With Imposter Syndrome](https://www.youtube.com/watch?v=Bv8MNmEn0MM)
@@ -115,7 +116,7 @@
 - [Atlassian Imposter Syndrome](https://www.youtube.com/watch?v=zNBmHXS3A6I)
 - [Curing Imposter Syndrome](https://www.youtube.com/watch?v=bKUlyMaKz8Y)
 
-## GROWTH MINDSET
+## Growth Mindset
 - [The Story of Austin's Butterfly](https://www.youtube.com/watch?v=hqh1MRWZjms)
 - [The Power of Belief -- Mindset and Success](https://www.youtube.com/watch?v=pN34FNbOKXc)
 - [The Gap](https://vimeo.com/85040589)
@@ -128,20 +129,6 @@
 - [Programming Talks](https://github.com/hellerve/programming-talks)
 
 ## [License](LICENSE)
-
-JS
-
-
-Mongodb
-
-
-Node
-
-Software
-
-
-
-
 
 1.  All content is licensed under a CC­BY­NC­SA 4.0 license.
 1.  All software code is licensed under GNU GPLv3. For commercial use or
