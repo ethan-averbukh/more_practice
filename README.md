@@ -2,6 +2,7 @@
 
 # Recommended Content
 
+- [More from GA](ga-extra.md)
 - [Books](books.md)
 - [Videos](videos.md)
 - [Online Education](online-education.md)
