@@ -11,6 +11,7 @@ Zoom GA Recordings
 - [Angular](https://generalassembly.zoom.us/rec/share/t-BNHRhxYW6JrTBVT07mLPDtIRcAAPZ70wz5Cns0U5Jqv5j-TZcUbWUgd3zkN22_.QiHJOkyEY4B96XNQ) Passcode: 6oGV5%dZ
 
 GA Instructor Youtube Playlists
+- [HTML & CSS](https://www.youtube.com/playlist?list=PLdnONIhPScST0Vy4LrIZiYKpFNoxgyH7J)
 - [Playlist on JS Object Oriented Programming (basics/inheritance, static, private, composition)](https://www.youtube.com/playlist?list=PLY6oTPmKnKbagncvwQeIvSmHlirSGNCUO)
 - [Playlist on Javascript Debugging (all console functions, try, catch, throw)](https://www.youtube.com/playlist?list=PLY6oTPmKnKbbRBom0Txvg28C6EySkR6Vq)
 - [Playlist on Web Components (HTMLElement, ShadowDom, etc.)](https://www.youtube.com/playlist?list=PLY6oTPmKnKbaNVkXHOHWxgdKEZLGKuFP9)
