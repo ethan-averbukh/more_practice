@@ -1,17 +1,22 @@
 [![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
 
-# Recommended Content
+# Post Program Practice
 
+
+## Learn More
 - [GA Bonus Material](ga-bonus.md)
-- [Books](books.md)
 - [Videos](videos.md)
-- [Online Education](online-education.md)
-- [Tutorials](tutorials.md)
 - [Blogs](blogs.md)
+- [Books](books.md)
+- [Education](online-education.md)
+
+
+## Build More
+- [Tutorials](tutorials.md)
 - [Coding Challenges](coding-challenges.md)
-- [Case Studies](case-studies.md)
 - [Libaries & Frameworks](libraries.md)
 - [APIs](apis.md)
+- [Case Studies](case-studies.md)
 
 ## [License](LICENSE)
 
