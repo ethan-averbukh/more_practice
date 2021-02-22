@@ -2,4 +2,9 @@
 
 # Tutorials
 
-- [Build your own X](https://github.com/danistefanovic/build-your-own-x)
+- https://github.com/danistefanovic/build-your-own-x
+- https://flaviocopes.com/sample-app-ideas/
+- https://blog.bitsrc.io/15-app-ideas-to-build-and-level-up-your-coding-skills-28612c72a3b1
+- https://github.com/florinpop17/app-ideas
+- https://javascript30.com/
+- https://www.newline.co/fullstack-react/30-days-of-react/
