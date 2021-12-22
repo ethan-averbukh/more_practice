@@ -5,6 +5,7 @@
 
 ## Learn More
 - [GA Bonus Material](ga-bonus.md)
+- [Revisit Topics](https://docs.google.com/spreadsheets/d/1bK_kENy8YsMydioohuWOfYV6uB-7bnu31vR2djh5NUw/)
 - [Videos](videos.md)
 - [Blogs](blogs.md)
 - [Books](books.md)
