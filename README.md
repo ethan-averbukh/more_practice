@@ -7,7 +7,6 @@
 - [GA Bonus Material](ga-bonus.md)
 - [Revisit Class Topics](https://docs.google.com/spreadsheets/d/1bK_kENy8YsMydioohuWOfYV6uB-7bnu31vR2djh5NUw/)
 - [Videos](videos.md)
-- [Blogs](blogs.md)
 - [Books](books.md)
 - [Education](online-education.md)
 
@@ -17,7 +16,6 @@
 - [Coding Challenges](coding-challenges.md)
 - [Libaries & Frameworks](libraries.md)
 - [APIs](apis.md)
-- [Case Studies](case-studies.md)
 
 ## [License](LICENSE)
 
