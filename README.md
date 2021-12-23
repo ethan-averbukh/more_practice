@@ -5,7 +5,7 @@
 
 ## Learn More
 - [GA Bonus Material](ga-bonus.md)
-- [Revisit Class Topics](https://docs.google.com/spreadsheets/d/1bK_kENy8YsMydioohuWOfYV6uB-7bnu31vR2djh5NUw/)
+- [Post-Grad Material Review Roadmap](https://docs.google.com/spreadsheets/d/1bK_kENy8YsMydioohuWOfYV6uB-7bnu31vR2djh5NUw/)
 - [Videos](videos.md)
 - [Books](books.md)
 - [Education](online-education.md)
